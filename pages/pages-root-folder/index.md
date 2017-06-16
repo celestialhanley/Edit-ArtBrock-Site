@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  title: Arthur Brock builds targeted currencies which shape the social dynamics of our emerging post-industrial economy. "I believe that humanity has much greater capacities than we currently employ. I am working to unleash those capacities for the mutual benefit of all." 
+  image_fullwidth: jeremy-thomas-63102.jpg
 widget1:
   title: "Blog & Portfolio"
   url: '/blog/'
