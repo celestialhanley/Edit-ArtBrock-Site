@@ -25,7 +25,7 @@ author: artbrock
 
 # This URL is the main address for absolute links. No slash at the end.
 #
-url: 'https://bboyatwork.github.io/Edit-ArtBrock-Site/'
+url: 'https://bboyatwork.github.io/Edit-ArtBrock-Site'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
